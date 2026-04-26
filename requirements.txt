@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+
+# NLP
+nltk
+spacy
+
+# Deep Learning (if used)
+torch
+transformers
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook
+jupyter
+
+# Utilities
+tqdm
